@@ -8,11 +8,11 @@ npm install --save-dev eslint-config-restricted-globals
 
 ## Usage
 Place this config inside the `extends` section of your `eslint` config file.
-```json
+```javascript
 {
   "extends": [
     ...
-    # alternatively you can omit eslint-config- and just place "restricted-globals"
+    // alternatively you can omit eslint-config- and just place "restricted-globals"
     "eslint-config-restricted-globals",
     ...
   ]
