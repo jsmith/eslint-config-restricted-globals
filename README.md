@@ -19,5 +19,8 @@ Place this config inside the `extends` section of your `eslint` config file.
 }
 ```
 
+## Rule Information
+Look at [index.js](./blob/master/index.js) to see the current globals that are restricted!
+
 ## References
 Based on [this comment](https://github.com/microsoft/TypeScript/issues/14306#issuecomment-552890299) from @jahooma.
