@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-restricted-globals",
+  "version": "0.1.0",
+  "description": "Restrict global variables to prevent accidental global access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsmith/eslint-config-restricted-globals.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "restricted-globals",
+    "no-restricted-globals"
+  ],
+  "author": "Jacob Smith <jacob.smith@unb.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmith/eslint-config-restricted-globals/issues"
+  },
+  "homepage": "https://github.com/jsmith/eslint-config-restricted-globals#readme",
+  "peerDependencies": {
+    "eslint": ">= 2.3.0"
+  }
+}
